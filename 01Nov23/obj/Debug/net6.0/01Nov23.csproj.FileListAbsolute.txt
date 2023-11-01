@@ -1,0 +1,15 @@
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\bin\Debug\net6.0\01Nov23.exe
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\bin\Debug\net6.0\01Nov23.deps.json
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\bin\Debug\net6.0\01Nov23.runtimeconfig.json
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\bin\Debug\net6.0\01Nov23.dll
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\bin\Debug\net6.0\01Nov23.pdb
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.csproj.AssemblyReference.cache
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.AssemblyInfoInputs.cache
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.AssemblyInfo.cs
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.csproj.CoreCompileInputs.cache
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.dll
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\refint\01Nov23.dll
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.pdb
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\01Nov23.genruntimeconfig.cache
+C:\Users\comp-service\Desktop\01Nov23\01Nov23\obj\Debug\net6.0\ref\01Nov23.dll
